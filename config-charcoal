@@ -24,9 +24,6 @@ CONFIG_DEFAULT_HOSTNAME="steamdeck"
 # Disable ath11k tracing
 CONFIG_ATH11K_TRACING=n
 
-# Add Binder module
-CONFIG_ANDROID_BINDER_IPC=m
-
 # Enable NTSYNC
 CONFIG_NTSYNC=y
 
